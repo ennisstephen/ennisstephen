@@ -5,6 +5,7 @@
 Welcome to my GitHub page! I'm Stephen, a Java expert who loves working with microservices, Kubernetes, React, and JavaScript.
 
 > "Imagination is more important than knowledge." - Albert Einstein
+
 I'm passionate about building lightweight, modular microservices that can scale and handle failures with ease. I believe Kubernetes is an excellent platform to orchestrate and manage these services at scale.
 
 > "If you think math is hard, try web design." - Trish Parr
